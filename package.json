@@ -1,0 +1,11 @@
+{
+  "name": "TheStuffTheyDontTeachYou",
+  "version": "1.0.0",
+  "repository": "https://github.com/TheStuffTheyDontTeachYou/TheStuffTheyDontTeachYou.git",
+  "author": "Wesley Ford <wes@wesdev.pro>",
+  "license": "MIT",
+  "workspaces": [
+    "src/*"
+  ],
+  "private": true
+}
